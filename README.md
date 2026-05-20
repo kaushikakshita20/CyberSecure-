@@ -84,7 +84,6 @@ Each threat contains:
 CyberSecure/
 │
 ├── index.html
-├── style.css
 ├── script.js
 ├── synopsis.pdf
 └── README.md
